@@ -6,7 +6,7 @@ This is 2020 communication theory curriculum labs which contain basic use of tcp
 * TCP lab is chat tool.
 * UDP lab is only broadcast.
 
-First lab has bug which launch server twice could case app crash.
+First lab has bug which launch server twice could cause app crash.
 
 Technical route: cpp + qt + winsock -> so base on Windows OS.
 
